@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:TxTest", "name": "test_coinbase_height", "time": 0.00027561187744140625, "type": "success"}, {"classname": "index_test:TxTest", "name": "test_is_coinbase", "time": 9.1552734375e-05, "type": "success"}]}
